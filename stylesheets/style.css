@@ -180,7 +180,7 @@ body {
 	
 	/* Section 4 */
 	.section-4 .obj-1 {
-		margin: 600px 0 0 300px;
+		margin: 600px 0 0 0;
 		width: 1300px;
 		height: 300px;
 		background: url("../images/aboutwhitetext.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
